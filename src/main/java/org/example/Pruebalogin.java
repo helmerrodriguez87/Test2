@@ -75,6 +75,10 @@ public class Pruebalogin {
         WebElement fin = driver.findElement(By.xpath("//a[.='FINISH']"));
         fin.click();
 
+        //Scroll
+        WebElement Bajo = driver.findElement(By.xpath("//footer[@class='footer']"));
+
+
 
 
 
