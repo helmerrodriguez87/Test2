@@ -1,0 +1,12 @@
+
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©È ’8Å≥‹ö•1
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŸŒ„8Å≥‹ö•1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∑Üºª˘ˇˇˇˇ8Ç≥‹ö•1
+m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó±Ë£8Ç≥‹ö•1
+l	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óû»8Ç≥‹ö•1
+r	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ù°”¸ˇˇˇˇ8Ç≥‹ö•1
+r	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»ΩÒ˘ˇˇˇˇ8â±ìÁ¶1
+\
+java:S1854P":Remove this useless assignment to local variable "scroll".(éó‚∑˘ˇˇˇˇ8ü≥‹ö•1
+M
+java:S1481P"+Remove this unused "scroll" local variable.(éó‚∑˘ˇˇˇˇ8ÄßíÁ¶1

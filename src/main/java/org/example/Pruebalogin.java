@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 
 public class Pruebalogin {
 
@@ -76,12 +77,12 @@ public class Pruebalogin {
         fin.click();
 
         //Scroll
-        WebElement Bajo = driver.findElement(By.xpath("//footer[@class='footer']"));
+        Actions Scroll = new Actions(driver);
+        WebElement Scrollb = driver.findElement(By.xpath("//footer[@class='footer']"));
+        Scroll.moveToElement(Scrollb).perform();
 
-
-
-
-
+        WebElement Scrolla = driver.findElement(By.xpath("//div[@class='app_logo']"));
+        Scroll.moveToElement(Scrolla).perform();
 
 
 
